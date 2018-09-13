@@ -1,9 +1,13 @@
-# jr0cket's #100-Days-Of-Clojure-Code Challenge
+# kazesberger's #100-Days-Of-Clojure-Code Challenge
 From the 15th September I will spend a minimum of 1 hour per day writing Clojure code for 100 days.  This will take me up to the 24th December.  
 
-Follow my journey in the [log](log.md), collaborate with issues, pull requests and via the [Clojurians Slack #100-days-of-code channel](https://clojurians.slack.com/) - [self sign-up](https://clojurians.net/), [archive](https://clojurians-log.clojureverse.org/).
+As reading about [jr0cket's](https://github.com/jr0cket/100-days-of-clojure-code) participation in the challenge gave me the last push I shamelessly forked and slightly adapted goals for myself.
 
-Progress will also be tweeted from [jr0cket](https://twitter.com/jr0cket), including [_100DaysOfCode](https://twitter.com/_100DaysOfCode)
+I will update via these channels:
+
+* within this repo: [log](log.md)
+* [Clojurians Slack #100-days-of-code channel](https://clojurians.slack.com/) - [self sign-up](https://clojurians.net/), [archive](https://clojurians-log.clojureverse.org/).
+* tweets with my twitter handle [PsychodelicDad](https://twitter.com/PsychodelicDad), including [_100DaysOfCode](https://twitter.com/_100DaysOfCode)
 
 ## Contents
 
@@ -11,32 +15,43 @@ Progress will also be tweeted from [jr0cket](https://twitter.com/jr0cket), inclu
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
-* [Another 10days of Clojure example](https://github.com/natenka/100-days-of-Clojure)
 
 
-## Basic plan for the 100 days challenge
-An initial plan for the 100 days challenge
- Day 1:
- - Clojure syntax and basic language use
+## Initial plan for the 100 days challenge
+
+### Goals
+
+1. Practice core api and core concepts to become fluent when it comes to handle/transform data.
+1. Play with sideproject ideas like ansible-role-spec
+1. Get into FE-development with reframe (which probably will be the focus of my next 100days-of-code participation)
+
+### Timetable
  
- Day 2-42:
- One or more exercises from the following websites
+#### Day 1-42: Clojure katas
+
+One or more exercises from the following websites (just a pool of exercises - not gonna finish all of it, though i hope to complete at least 1 site)
+
  - [4Clojure challenges](http://www.4clojure.com/)
+ - [Exercism.io](https://exercism.io/)
+ - [living clojure wonderland katas by gigasquid](https://github.com/gigasquid/wonderland-clojure-katas)
+ - [hackerrank](https://www.hackerrank.com)
  - [Awesome kata exercises](https://github.com/gamontal/awesome-katas) with `clojure.test`
  - [ClojureBridge London exercises](https://clojurebridgelondon.github.io/workshop/)
+ - [CodeWars](https://www.codewars.com/)
+ 
+#### Day 43-76: miniprojects and cljs
 
-Day 43-75:
--	[Exercisim.io](https://exercism.io/)
--	[CodeWars](https://www.codewars.com/)
--	Clacks cryptography – other more advanced cyphers
--	Game of Life basics / clojurescript
--	Tic-tac-toe clojurescript
--	Othello clojurescript
--	Connect 4 - clojurescript
--	Space-wars in Clojurescript / svg – quil.info ?
--	Some projects with spec
+ - [ansible-role-spec](https://github.com/infonova/ansible-role-spec)
+ - [planck practice](http://planck-repl.org/) (parsers, automation tools etc.)
+ - [codepen.io](https://codepen.io)
+ - maybe small games
+     - Game of Life basics / clojurescript
+     - Tic-tac-toe clojurescript
+     - Othello clojurescript
+     - Connect 4 - clojurescript
+     - Space-wars in Clojurescript / svg – quil.info ?
 
-Day 77-100:
+#### Day 77-100:
 - [Advent of code](https://adventofcode.com/)
 - [24 pull requests](https://24pullrequests.com/)
 
