@@ -46,3 +46,23 @@ The log of my #100DaysOfCode challenge. Started on [September 15, Saturday, 2018
 * I believe this challenge is *exactly* what I need to do.
 
 ### R1D1 
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[exercism.io/minesweeper][1]            | nope
+
+#### description
+
+I initially thought this would be easy for me.
+Gonna look up some of the public solutions and probably retry this on another day (at least 1w in the future).
+
+#### TIL
+
+* map-indexed
+* besides that mostly practicing experience, because i super-hard-tried to solve this without leaving my IDE (cursive atm).
+
+#### thoughts / feelings
+
+I'm not too disappointed. I know that I need to learn a lot. I'm only a bit concerned about whether I'm already on the right track meaning "Am I learning/practicing the right way". eg. should I peek more/less/never into solutions.
+
+[1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
