@@ -45,7 +45,7 @@ The log of my #100DaysOfCode challenge. Started on [September 15, Saturday, 2018
 * As I know the importance of practicing habits from being a hobby-musician (once made it into a member of the upper austrian brass band for 1 project), I'm confident that i can pull this off.
 * I believe this challenge is *exactly* what I need to do.
 
-### R1D1 
+### R1D1 - 2018-09-15
 
 Task                                    | completed
 ----------------------------------------| -------------------- 
