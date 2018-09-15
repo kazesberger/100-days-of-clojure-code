@@ -32,6 +32,7 @@ I will update via these channels:
 One or more exercises from the following websites (just a pool of exercises - not gonna finish all of it, though i hope to complete at least 1 site)
 
  - [4Clojure challenges](http://www.4clojure.com/)
+ - [green-coder's transducer exercises](https://github.com/green-coder/transducer-exercises)
  - [Exercism.io](https://exercism.io/)
  - [living clojure wonderland katas by gigasquid](https://github.com/gigasquid/wonderland-clojure-katas)
  - [hackerrank](https://www.hackerrank.com)
