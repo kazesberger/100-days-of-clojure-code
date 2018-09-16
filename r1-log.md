@@ -65,4 +65,31 @@ Gonna look up some of the public solutions and probably retry this on another da
 
 I'm not too disappointed. I know that I need to learn a lot. I'm only a bit concerned about whether I'm already on the right track meaning "Am I learning/practicing the right way". eg. should I peek more/less/never into solutions.
 
+### R1D2 - 2018-09-16
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[exercism.io/minesweeper][1]            | yes
+[exercism.io/series][2]                 | yes
+[exercism.io/collatz-conjecture][3]     | yes
+[exercism.io/beer-song][4]              | yes (not optimized yet though)
+
+#### description
+
+Yesterday I got help from [Timothy Pratley](https://github.com/timothypratley) to quickly revisit the minesweeper puzzle and realize that sometimes it helps not to tryhard too much on the clj-idiomatic stuff.
+Also learned a thing or two by looking at the other solutions to the minesweeper puzzle.  
+Decided to continue with the exercism puzzles. and did some of the first really easy hackerrank examples.
+Noticed that I'm now practically a rock star in the clojure world ;-) as I got inderectly linked via [planetclojure](https://twitter.com/planetclojure) -> [porkostomus' blog](https://porkostomus.gitlab.io/posts-output/2018-09-15-hundred-days-of-code/?utm_source=dlvr.it&utm_medium=twitter)
+
+#### TIL
+
+* dont tryhard on idiomatic stuff (though I'd highly recommend reading several solutions)
+
+#### thoughts / feelings
+
+Fired up :-) Need to put more thought into possible side projects.
+
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
+[2]:https://github.com/kazesberger/exercism-clj/tree/master/series
+[3]:https://github.com/kazesberger/exercism-clj/tree/master/collatz-conjecture
+[4]:https://github.com/kazesberger/exercism-clj/tree/master/beer-song
