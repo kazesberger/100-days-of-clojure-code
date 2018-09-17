@@ -89,7 +89,25 @@ Noticed that I'm now practically a rock star in the clojure world ;-) as I got i
 
 Fired up :-) Need to put more thought into possible side projects.
 
+### R1D3 - 2018-09-17
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[PR for porkostomus' ctrain][5]         | yes
+
+#### description
+
+In response to [porkostomus' blog post "2018-09-16-day-2"][6] I tried to figure out what the problem was and i think i succeeded in finding a proper solution.
+
+#### thoughts / feelings
+
+* porkostomus' idea with the rasppi is great. there are so many gadgets for mini-NES-like stuff out there - I think this is a wonderful idea to make something similar to play with code puzzles. 
+* filing a PR felt great :)
+* sadly this will be my only task for today - not feeling that great today (yet another sore throat)
+
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
 [2]:https://github.com/kazesberger/exercism-clj/tree/master/series
 [3]:https://github.com/kazesberger/exercism-clj/tree/master/collatz-conjecture
 [4]:https://github.com/kazesberger/exercism-clj/tree/master/beer-song
+[5]:https://github.com/porkostomus/ctrain/pull/1
+[6]:https://porkostomus.gitlab.io/posts-output/2018-09-16-day-2/
