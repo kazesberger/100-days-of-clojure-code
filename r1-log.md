@@ -105,9 +105,31 @@ In response to [porkostomus' blog post "2018-09-16-day-2"][6] I tried to figure 
 * filing a PR felt great :)
 * sadly this will be my only task for today - not feeling that great today (yet another sore throat)
 
+### R1D4 - 2018-09-18
+
+#### description
+
+Continued solving Exercism puzzles. 
+
+#### thoughts / feelings
+
+Exercism puzzles have quite wide range of difficulty despite all labelled "easy".
+I learned way more by doing the 4clojure puzzles (where I'm currently at problem #60). But Exercism still helps me to find better solutions in less time. 
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[exercism.io/nucleotide-count][1]       | yes
+[exercism.io/two-fer][2]                | yes
+[exercism.io/hamming][3]                | yes
+[exercism.io/phone-number][4]           | no (out of time not bc too hard)
+
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
 [2]:https://github.com/kazesberger/exercism-clj/tree/master/series
 [3]:https://github.com/kazesberger/exercism-clj/tree/master/collatz-conjecture
 [4]:https://github.com/kazesberger/exercism-clj/tree/master/beer-song
 [5]:https://github.com/porkostomus/ctrain/pull/1
 [6]:https://porkostomus.gitlab.io/posts-output/2018-09-16-day-2/
+[7]:https://github.com/kazesberger/exercism-clj/tree/master/nucleotide-count
+[8]:https://github.com/kazesberger/exercism-clj/tree/master/two-fer
+[9]:https://github.com/kazesberger/exercism-clj/tree/master/hamming
+[10]:https://github.com/kazesberger/exercism-clj/tree/master/phone-number
