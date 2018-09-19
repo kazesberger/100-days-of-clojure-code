@@ -118,10 +118,26 @@ I learned way more by doing the 4clojure puzzles (where I'm currently at problem
 
 Task                                    | completed
 ----------------------------------------| -------------------- 
-[exercism.io/nucleotide-count][1]       | yes
-[exercism.io/two-fer][2]                | yes
-[exercism.io/hamming][3]                | yes
-[exercism.io/phone-number][4]           | no (out of time not bc too hard)
+[exercism.io/nucleotide-count][7]       | yes
+[exercism.io/two-fer][8]                | yes
+[exercism.io/hamming][9]                | yes
+[exercism.io/phone-number][10]          | no (out of time not bc too hard)
+
+### R1D5 - 2018-09-19
+
+#### description
+
+Finished phone-number exercism from yesterday. 
+Decided to do some more 4clojure problems for now although they really getting difficult for me.
+
+#### thoughts / feelings
+
+Don't know when i'll be having my first day of this challenge where i won't complete any puzzle. been there will happen again i guess :)
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[exercism.io/phone-number][10]          | yes
+[4clj-60][11]                           | yes (although i need to dig more into the lazy-seq topic)
 
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
 [2]:https://github.com/kazesberger/exercism-clj/tree/master/series
@@ -133,3 +149,4 @@ Task                                    | completed
 [8]:https://github.com/kazesberger/exercism-clj/tree/master/two-fer
 [9]:https://github.com/kazesberger/exercism-clj/tree/master/hamming
 [10]:https://github.com/kazesberger/exercism-clj/tree/master/phone-number
+[11]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj60.clj
