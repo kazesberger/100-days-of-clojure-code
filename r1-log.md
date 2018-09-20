@@ -139,6 +139,23 @@ Task                                    | completed
 [exercism.io/phone-number][10]          | yes
 [4clj-60][11]                           | yes (although i need to dig more into the lazy-seq topic)
 
+### R1D6 - 2018-09-20
+
+#### description
+
+Had less time today so i did some exercisms again. more 4clj next time i hope. or maybe I'll have a look at past advent of code challenges.
+
+#### thoughts / feelings
+
+Tried to reach out to the maintainers of 4clojure because I want to improve this imho very important service for clojure beginners.
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[exercism.io/reverse-string][12]        | yes         
+[exercism.io/clock][13]                 | yes  
+[exercism.io/bob][14]                   | yes
+
+
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
 [2]:https://github.com/kazesberger/exercism-clj/tree/master/series
 [3]:https://github.com/kazesberger/exercism-clj/tree/master/collatz-conjecture
