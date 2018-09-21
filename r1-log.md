@@ -155,6 +155,28 @@ Task                                    | completed
 [exercism.io/clock][13]                 | yes  
 [exercism.io/bob][14]                   | yes
 
+### R1D7 - 2018-09-21
+
+#### TIL
+
+* lazy-cat
+* fnil
+* group-by
+
+#### description
+
+Decided to focus on 4clojure until finished. 
+
+#### thoughts / feelings
+
+Lazy-seqs are still a bit "magical" to me (construction mainly and lacking xp which stuff realization triggers although this is most of the time pretty obvious)
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[exercism.io/rna-transcription][15]     | yes
+[4clj-62][16]                           | yes 
+[4clj-63][17]                           | yes 
+
 
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
 [2]:https://github.com/kazesberger/exercism-clj/tree/master/series
@@ -167,3 +189,9 @@ Task                                    | completed
 [9]:https://github.com/kazesberger/exercism-clj/tree/master/hamming
 [10]:https://github.com/kazesberger/exercism-clj/tree/master/phone-number
 [11]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj60.clj
+[12]:https://github.com/kazesberger/exercism-clj/tree/master/reverse-string
+[13]:https://github.com/kazesberger/exercism-clj/tree/master/clock
+[14]:https://github.com/kazesberger/exercism-clj/tree/master/bob
+[15]:https://github.com/kazesberger/exercism-clj/tree/master/rna-transcription
+[16]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj62.clj
+[17]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj63.clj
