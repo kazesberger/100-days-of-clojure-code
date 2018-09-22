@@ -177,6 +177,29 @@ Task                                    | completed
 [4clj-62][16]                           | yes 
 [4clj-63][17]                           | yes 
 
+### R1D8 - 2018-09-22
+
+Continuing 4clj. The gaps in my "done" list (like 4clj-64) are (up to now) educational exercises too easy to mention.
+Had a mentor-session with Timothy pratley again. Quickly discussed my [ansible-role-spec][18] project which I'm about to start and poked at some code for it.   
+
+#### TIL
+
+* empty
+* keep
+* need to think more often of 'some'
+* drop is better for (map inc (range)) *blushing in shame* mainly bc of 2-arity drop [n coll]
+* [expound](https://github.com/bhb/expound) is a very nice addition to clojure spec.
+* [entr](http://www.entrproject.org/) is a nice cli-tool to run commands on file change.
+
+#### thoughts / feelings
+
+Not sure whether my [ansible-role-spec][18] tool will be useful for a broader audience but I'll definitely write it and am going to use it once the first version is done. 
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[exercism.io/4clj-65][19]               | yes
+[exercism.io/4clj-66][20]               | yes
+[exercism.io/4clj-67][21]               | yes
 
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
 [2]:https://github.com/kazesberger/exercism-clj/tree/master/series
@@ -195,3 +218,7 @@ Task                                    | completed
 [15]:https://github.com/kazesberger/exercism-clj/tree/master/rna-transcription
 [16]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj62.clj
 [17]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj63.clj
+[18]:https://github.com/kazesberger/ansible-role-spec
+[19]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj65.clj
+[20]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj66.clj
+[21]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj67.clj
