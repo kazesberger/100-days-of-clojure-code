@@ -201,6 +201,26 @@ Task                                    | completed
 [exercism.io/4clj-66][20]               | yes
 [exercism.io/4clj-67][21]               | yes
 
+### R1D9 - 2018-09-23
+
+Continuing 4clj. Made it to 4clj73 but didn't solve it yet.    
+
+#### TIL
+
+* re-seq (need to look a bit more into regex stuff, maybe there are still some 4clj exercises to practice/learn this - otherwise i could contribute some)
+
+#### thoughts / feelings
+
+Feeling really good as I waste a lot less time re-learning stuff I've already forgotten by doing this daily. (yes, I've become an old man... xD) 
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[exercism.io/4clj-69][22]               | yes
+[exercism.io/4clj-70][23]               | yes
+[exercism.io/4clj-73][24]               | nope
+
+
+
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
 [2]:https://github.com/kazesberger/exercism-clj/tree/master/series
 [3]:https://github.com/kazesberger/exercism-clj/tree/master/collatz-conjecture
@@ -222,3 +242,7 @@ Task                                    | completed
 [19]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj65.clj
 [20]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj66.clj
 [21]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj67.clj
+[22]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj69.clj
+[23]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj70.clj
+[24]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj73.clj
+
