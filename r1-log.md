@@ -219,6 +219,25 @@ Task                                    | completed
 [exercism.io/4clj-70][23]               | yes
 [exercism.io/4clj-73][24]               | nope
 
+### R1D10 - 2018-09-24
+
+Today i had one of my regular code kata sessions with a friend. we solved some 4clj.    
+
+#### TIL
+
+* read-string (although with eval dangerous under certain conditions) can be handily used to dynamicly parse string-data.
+* destructuring is very useful in any scenario where specific elements/parts of your data have special meaning (so kinda always drastically reducing code)
+
+#### thoughts / feelings
+
+:) 
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[exercism.io/4clj-73][24]               | yes
+[exercism.io/4clj-74][25]               | yes
+[exercism.io/4clj-75][26]               | nope
+
 
 
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
@@ -245,4 +264,6 @@ Task                                    | completed
 [22]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj69.clj
 [23]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj70.clj
 [24]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj73.clj
+[25]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj74.clj
+[26]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj75.clj
 
