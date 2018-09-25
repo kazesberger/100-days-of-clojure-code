@@ -197,9 +197,9 @@ Not sure whether my [ansible-role-spec][18] tool will be useful for a broader au
 
 Task                                    | completed
 ----------------------------------------| -------------------- 
-[exercism.io/4clj-65][19]               | yes
-[exercism.io/4clj-66][20]               | yes
-[exercism.io/4clj-67][21]               | yes
+[4clj-65][19]                           | yes
+[4clj-66][20]                           | yes
+[4clj-67][21]                           | yes
 
 ### R1D9 - 2018-09-23
 
@@ -215,9 +215,9 @@ Feeling really good as I waste a lot less time re-learning stuff I've already fo
 
 Task                                    | completed
 ----------------------------------------| -------------------- 
-[exercism.io/4clj-69][22]               | yes
-[exercism.io/4clj-70][23]               | yes
-[exercism.io/4clj-73][24]               | nope
+[4clj-69][22]                           | yes
+[4clj-70][23]                           | yes
+[4clj-73][24]                           | nope
 
 ### R1D10 - 2018-09-24
 
@@ -234,9 +234,31 @@ Today i had one of my regular code kata sessions with a friend. we solved some 4
 
 Task                                    | completed
 ----------------------------------------| -------------------- 
-[exercism.io/4clj-73][24]               | yes
-[exercism.io/4clj-74][25]               | yes
-[exercism.io/4clj-75][26]               | nope
+[4clj-73][24]                           | yes
+[4clj-74][25]                           | yes
+[4clj-75][26]                           | nope
+
+### R1D11 - 2018-09-25
+
+4clj.    
+
+#### TIL
+
+* flatten obviously only flattens sequential things like vector, list, seqs but not maps and sets.
+* trampoline recursion (find it a bit hard to read though atm)
+
+#### thoughts / feelings
+
+:) 
+
+I kinda want to get over these puzzles asap to get more into a bit more real world stuff. but my spare time without interruptions is very limited atm. 
+But there is hope: working on better organisation of work and family and by November 24th I quit playing in my wind band.
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[4clj-75][26]                           | yes
+4clj-76                                 | yes
+[4clj-77][27]                           | yes
 
 
 
@@ -266,4 +288,5 @@ Task                                    | completed
 [24]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj73.clj
 [25]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj74.clj
 [26]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj75.clj
+[27]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj77.clj
 
