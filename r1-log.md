@@ -260,6 +260,19 @@ Task                                    | completed
 4clj-76                                 | yes
 [4clj-77][27]                           | yes
 
+### R1D12 - 2018-09-26
+
+4clj.    
+
+#### thoughts / feelings
+
+:) very tired today though. 
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[4clj-78][28]                           | yes
+[4clj-79][29]                           | nope (but I'm close to a shitty first solution)
+
 
 
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
@@ -289,4 +302,6 @@ Task                                    | completed
 [25]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj74.clj
 [26]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj75.clj
 [27]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj77.clj
+[28]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj78.clj
+[29]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj79.clj
 
