@@ -274,6 +274,31 @@ Task                                    | completed
 [4clj-79][29]                           | nope (but I'm close to a shitty first solution)
 
 
+### R1D13 - 2018-09-27
+
+4clj.
+Discovered [GeeksForGeeks.org](https://www.geeksforgeeks.org/) which is among other things an awesome source of algorithmic problems.
+
+#### TIL
+
+* for some reason that i dont understand yet one cannot use apply on macros (like and). in my case (every true? (and ...) solved my task.
+* once again (re-)learned that sets can be used as functions and predicates.
+
+#### thoughts / feelings
+
+I wonder whether there is still a barrier that is like "tinking in clojure".
+I can't shake off the feeling that I still have a moment in front of me where it should make "click" somehow, 
+but probably it's just a matter of practice and a more gradual "click" than I "feel".
+
+Anyways I'm curious what I will think of this once I've overcome this feeling.
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[4clj-79][29]                           | nope (i checked the solutions and realized i misunderstood the task)
+[4clj-80][30]                           | yes
+[4clj-81][31]                           | yes
+
+
 
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
 [2]:https://github.com/kazesberger/exercism-clj/tree/master/series
@@ -304,4 +329,6 @@ Task                                    | completed
 [27]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj77.clj
 [28]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj78.clj
 [29]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj79.clj
+[30]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj80.clj
+[31]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj81.clj
 
