@@ -299,6 +299,20 @@ Task                                    | completed
 [4clj-81][31]                           | yes
 
 
+### R1D14 - 2018-09-28
+
+4clj.
+didnt have a whole hour today bc i had wind band rehearsals today. so didnt finish the hard problem 4clj82 yet.
+
+#### thoughts / feelings
+
+Tired a. f. ...
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[4clj-82][32]                           | not yet
+
+
 
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
 [2]:https://github.com/kazesberger/exercism-clj/tree/master/series
@@ -331,4 +345,5 @@ Task                                    | completed
 [29]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj79.clj
 [30]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj80.clj
 [31]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj81.clj
+[32]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj82.clj
 
