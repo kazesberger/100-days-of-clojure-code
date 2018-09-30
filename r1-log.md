@@ -313,6 +313,22 @@ Task                                    | completed
 [4clj-82][32]                           | not yet
 
 
+### R1D15 - 2018-09-29
+
+super little time today (started at 2:30am) because my sister and her family visits me this weekend from vienna having a sleepover at my place.
+thought i'd do some of the basic problem solving tasks on hackerrank today.  
+
+#### thoughts / feelings
+
+hm, dont really like hackerrank as it requires you to get the stdout 100% correct while not displaying any feedback of what you didnt get right.
+but hackerrank seems to have other perks like some motivation providing special badges (30 days of code etc.)
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[hackerrank/diagonal-difference][33]    | yes
+[hackerrank/plus-minus][34]             | yes
+[hackerrank/staircase][35]              | kinda (somehow the stdout format of my solution seems to be wrong somewhere...)
+
 
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
 [2]:https://github.com/kazesberger/exercism-clj/tree/master/series
@@ -346,4 +362,7 @@ Task                                    | completed
 [30]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj80.clj
 [31]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj81.clj
 [32]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj82.clj
+[33]:https://github.com/kazesberger/clj-katas/blob/master/src/hackerrank/diagonal_difference.clj
+[34]:https://github.com/kazesberger/clj-katas/blob/master/src/hackerrank/plusminus.clj
+[35]:https://github.com/kazesberger/clj-katas/blob/master/src/hackerrank/staircase.clj
 
