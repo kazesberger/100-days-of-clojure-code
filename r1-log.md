@@ -320,7 +320,7 @@ thought i'd do some of the basic problem solving tasks on hackerrank today.
 
 #### thoughts / feelings
 
-hm, dont really like hackerrank as it requires you to get the stdout 100% correct while not displaying any feedback of what you didnt get right.
+hm, dont really like that hackerrank requires you to get the stdout 100% correct while not displaying any feedback of what you didnt get right.
 but hackerrank seems to have other perks like some motivation providing special badges (30 days of code etc.)
 
 Task                                    | completed
@@ -329,6 +329,30 @@ Task                                    | completed
 [hackerrank/plus-minus][34]             | yes
 [hackerrank/staircase][35]              | kinda (somehow the stdout format of my solution seems to be wrong somewhere...)
 
+### R1D16 - 2018-09-30
+
+Finished 4clj-82 and had my regular mentor session with @timothypratley
+
+#### thoughts / feelings
+
+I think I'm already thinking more functional or in a clojure-affine way than I initially thought recently.
+I realized this when I did a short exercise with Timothy today comparing 2 different solutions (my initial solution and a solution that uses a loop/recur construct).  
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[4clj-82][32]                           | yes
+
+### R1D16 - 2018-10-01
+
+Solved 4clj-83.
+
+### TIL
+
+* i realized yet another time what an awesome tool destructuring is.
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[4clj-83][36]                           | yes
 
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
 [2]:https://github.com/kazesberger/exercism-clj/tree/master/series
@@ -365,4 +389,5 @@ Task                                    | completed
 [33]:https://github.com/kazesberger/clj-katas/blob/master/src/hackerrank/diagonal_difference.clj
 [34]:https://github.com/kazesberger/clj-katas/blob/master/src/hackerrank/plusminus.clj
 [35]:https://github.com/kazesberger/clj-katas/blob/master/src/hackerrank/staircase.clj
+[36]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj83.clj
 
