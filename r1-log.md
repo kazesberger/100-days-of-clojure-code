@@ -344,7 +344,7 @@ Task                                    | completed
 
 ### R1D16 - 2018-10-01
 
-Solved 4clj-83.
+Solved 4clj-84.
 
 ### TIL
 
@@ -352,7 +352,36 @@ Solved 4clj-83.
 
 Task                                    | completed
 ----------------------------------------| -------------------- 
-[4clj-83][36]                           | yes
+[4clj-84][36]                           | yes
+
+
+### R1D17 - 2018-10-02
+
+Solved 4clj-85.
+
+### TIL
+
+* while peek (kinda obviously) only works on stack collections which excludes sets ofc, first does work just fine.
+
+### thoughts / feelings
+
+* I really struggled with this exercise. My thoughts always kept circling around my initial approach which would have been feasible too as I've realized later, but in the end i solved it once i could think of the problem in a different way.
+* also was super tired again.
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[4clj-85][37]                           | yes
+
+
+### R1D18 - 2018-10-03
+
+Solved some of the easier 4clj examples today (i just skipped harder exercises for now)
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[4clj-88][38]                           | yes
+[4clj-90][39]                           | yes
+[4clj-93][40]                           | yes
 
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
 [2]:https://github.com/kazesberger/exercism-clj/tree/master/series
@@ -389,5 +418,8 @@ Task                                    | completed
 [33]:https://github.com/kazesberger/clj-katas/blob/master/src/hackerrank/diagonal_difference.clj
 [34]:https://github.com/kazesberger/clj-katas/blob/master/src/hackerrank/plusminus.clj
 [35]:https://github.com/kazesberger/clj-katas/blob/master/src/hackerrank/staircase.clj
-[36]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj83.clj
-
+[36]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj84.clj
+[37]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj85.clj
+[38]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj88.clj
+[39]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj90.clj
+[40]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj93.clj
