@@ -383,6 +383,25 @@ Task                                    | completed
 [4clj-90][39]                           | yes
 [4clj-93][40]                           | yes
 
+### R1D17 - 2018-10-04
+
+Solved 4clj-86.
+
+### TIL
+
+* zipmap is a very handy map construction tool (and the name of this fn is nice :))
+* i think partition-by can be used with lazye seqs without (fully) realizing the seq (cgrand's solution of 4clj-86 suggests that at least, although he added the take 100 while pointing out a bug in 1.2 through comment)
+
+### thoughts / feelings
+
+* although i had the solution already conceptually real quick i struggled at extracting the solution from the lazy sequence.
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[4clj-86][41]                           | yes
+
+
+
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
 [2]:https://github.com/kazesberger/exercism-clj/tree/master/series
 [3]:https://github.com/kazesberger/exercism-clj/tree/master/collatz-conjecture
@@ -423,3 +442,4 @@ Task                                    | completed
 [38]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj88.clj
 [39]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj90.clj
 [40]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj93.clj
+[41]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj86.clj
