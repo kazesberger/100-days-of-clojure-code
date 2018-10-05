@@ -342,7 +342,7 @@ Task                                    | completed
 ----------------------------------------| -------------------- 
 [4clj-82][32]                           | yes
 
-### R1D16 - 2018-10-01
+### R1D17 - 2018-10-01
 
 Solved 4clj-84.
 
@@ -355,7 +355,7 @@ Task                                    | completed
 [4clj-84][36]                           | yes
 
 
-### R1D17 - 2018-10-02
+### R1D18 - 2018-10-02
 
 Solved 4clj-85.
 
@@ -373,7 +373,7 @@ Task                                    | completed
 [4clj-85][37]                           | yes
 
 
-### R1D18 - 2018-10-03
+### R1D19 - 2018-10-03
 
 Solved some of the easier 4clj examples today (i just skipped harder exercises for now)
 
@@ -383,7 +383,7 @@ Task                                    | completed
 [4clj-90][39]                           | yes
 [4clj-93][40]                           | yes
 
-### R1D17 - 2018-10-04
+### R1D20 - 2018-10-04
 
 Solved 4clj-86.
 
