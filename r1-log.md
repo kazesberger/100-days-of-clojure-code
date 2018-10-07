@@ -401,6 +401,23 @@ Task                                    | completed
 [4clj-86][41]                           | yes
 
 
+### R1D21/22 - 2018-10-05/06
+
+Little time bc of band rehearsals. almost solved another hard exercise but am too fuqing tired to finish up. expect it to be done within 5 minutes tomorrow xD
+
+### TIL
+
+* partition-with is awesome. need to look into the code of this fn bc I stumbled upon some interesting results in my recent repl experiments with it.
+
+### thoughts / feelings
+
+* https://www.youtube.com/watch?v=i2HDLc3OlFI
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[4clj-95][42]                           | yes
+[4clj-89][43]                           | almost-ish :)
+
 
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
 [2]:https://github.com/kazesberger/exercism-clj/tree/master/series
@@ -443,3 +460,5 @@ Task                                    | completed
 [39]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj90.clj
 [40]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj93.clj
 [41]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj86.clj
+[42]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj95.clj
+[43]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj89.clj

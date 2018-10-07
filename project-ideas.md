@@ -32,3 +32,12 @@ for some are already issues/PRs
     * problem-data
     * submit solution
 * allow multiple solutions
+
+## experiment with [gaia](https://github.com/gaia-pipeline/gaia)
+    
+* write a pipeline using clojure
+* mb contribute clj-lang-support stuff?
+* or mb build something similar using cljs
+
+## experiment with [shadow-jam](https://github.com/groundedSAGE/shadow-jam)
+   
