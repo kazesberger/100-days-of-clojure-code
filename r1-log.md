@@ -418,6 +418,24 @@ Task                                    | completed
 [4clj-95][42]                           | yes
 [4clj-89][43]                           | almost-ish :)
 
+### R1D23/24/25 - 2018-10-07/08/09
+
+* mentor session
+* session with learning buddy
+
+All these 4 tasks i solved were considered "hard". 
+quite proud of myself that except 4clj-89 they felt quite easy to solve in comparison to the struggles i used to have even with medium difficulty problems.
+
+### TIL
+
+* actually i like the pure let for fn bindings slightly more than letfn. maybe i'm missing the point of letfn atm.
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[4clj-89][43]                           | yes
+[4clj-91][44]                           | yes
+[4clj-92][45]                           | yes
+[4clj-94][46]                           | yes
 
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
 [2]:https://github.com/kazesberger/exercism-clj/tree/master/series
@@ -462,3 +480,6 @@ Task                                    | completed
 [41]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj86.clj
 [42]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj95.clj
 [43]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj89.clj
+[44]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj91.clj
+[45]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj92.clj
+[46]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj94.clj
