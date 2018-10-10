@@ -437,6 +437,22 @@ Task                                    | completed
 [4clj-92][45]                           | yes
 [4clj-94][46]                           | yes
 
+### R1D26 - 2018-10-10
+
+yay 3-figure 4clojure tasks!
+
+### TIL
+
+* map can be nicely used to apply functions to argsequences that can be shifted/rotated/reversed. quite some usecases for this in common kata tasks and prolly "real world" too.
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[4clj-96][47]                           | yes
+[4clj-97][48]                           | yes
+[4clj-98][49]                           | yes
+[4clj-99][50]                           | yes
+[4clj-100][51]                          | yes
+
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
 [2]:https://github.com/kazesberger/exercism-clj/tree/master/series
 [3]:https://github.com/kazesberger/exercism-clj/tree/master/collatz-conjecture
@@ -483,3 +499,8 @@ Task                                    | completed
 [44]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj91.clj
 [45]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj92.clj
 [46]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj94.clj
+[47]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj96.clj
+[48]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj97.clj
+[49]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj98.clj
+[50]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj99.clj
+[51]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj100.clj
