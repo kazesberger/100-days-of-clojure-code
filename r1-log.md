@@ -453,6 +453,21 @@ Task                                    | completed
 [4clj-99][50]                           | yes
 [4clj-100][51]                          | yes
 
+### R1D27-29 - 2018-10-11-13
+
+technically sat down for coding every day but certainly not an hour. made 4clj progress nevertheless
+
+### TIL
+
+* clojre.core/format
+* clojure.string/replace
+* and how to weirdly use memoize without def (4clj restrictions -> 4clj101)
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[4clj-101][52]                          | yes
+[4clj-102][53]                          | yes
+
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
 [2]:https://github.com/kazesberger/exercism-clj/tree/master/series
 [3]:https://github.com/kazesberger/exercism-clj/tree/master/collatz-conjecture
@@ -504,3 +519,5 @@ Task                                    | completed
 [49]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj98.clj
 [50]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj99.clj
 [51]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj100.clj
+[52]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj101.clj
+[53]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj102.clj
