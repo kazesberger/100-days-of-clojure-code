@@ -346,7 +346,7 @@ Task                                    | completed
 
 Solved 4clj-84.
 
-### TIL
+#### TIL
 
 * i realized yet another time what an awesome tool destructuring is.
 
@@ -359,11 +359,11 @@ Task                                    | completed
 
 Solved 4clj-85.
 
-### TIL
+#### TIL
 
 * while peek (kinda obviously) only works on stack collections which excludes sets ofc, first does work just fine.
 
-### thoughts / feelings
+#### thoughts / feelings
 
 * I really struggled with this exercise. My thoughts always kept circling around my initial approach which would have been feasible too as I've realized later, but in the end i solved it once i could think of the problem in a different way.
 * also was super tired again.
@@ -387,12 +387,12 @@ Task                                    | completed
 
 Solved 4clj-86.
 
-### TIL
+#### TIL
 
 * zipmap is a very handy map construction tool (and the name of this fn is nice :))
 * i think partition-by can be used with lazye seqs without (fully) realizing the seq (cgrand's solution of 4clj-86 suggests that at least, although he added the take 100 while pointing out a bug in 1.2 through comment)
 
-### thoughts / feelings
+#### thoughts / feelings
 
 * although i had the solution already conceptually real quick i struggled at extracting the solution from the lazy sequence.
 
@@ -405,11 +405,11 @@ Task                                    | completed
 
 Little time bc of band rehearsals. almost solved another hard exercise but am too fuqing tired to finish up. expect it to be done within 5 minutes tomorrow xD
 
-### TIL
+#### TIL
 
 * partition-with is awesome. need to look into the code of this fn bc I stumbled upon some interesting results in my recent repl experiments with it.
 
-### thoughts / feelings
+#### thoughts / feelings
 
 * https://www.youtube.com/watch?v=i2HDLc3OlFI
 
@@ -426,7 +426,7 @@ Task                                    | completed
 All these 4 tasks i solved were considered "hard". 
 quite proud of myself that except 4clj-89 they felt quite easy to solve in comparison to the struggles i used to have even with medium difficulty problems.
 
-### TIL
+#### TIL
 
 * actually i like the pure let for fn bindings slightly more than letfn. maybe i'm missing the point of letfn atm.
 
@@ -441,7 +441,7 @@ Task                                    | completed
 
 yay 3-figure 4clojure tasks!
 
-### TIL
+#### TIL
 
 * map can be nicely used to apply functions to argsequences that can be shifted/rotated/reversed. quite some usecases for this in common kata tasks and prolly "real world" too.
 
@@ -457,7 +457,7 @@ Task                                    | completed
 
 technically sat down for coding every day but certainly not an hour. made 4clj progress nevertheless
 
-### TIL
+#### TIL
 
 * clojre.core/format
 * clojure.string/replace
@@ -467,6 +467,28 @@ Task                                    | completed
 ----------------------------------------| -------------------- 
 [4clj-101][52]                          | yes
 [4clj-102][53]                          | yes
+
+### R1D30-33 2018-10-14 -> 17
+
+4clj103->107 and I started actual work on this: [ansible-role-spec][59]
+
+Also had a very quick test balloon at creating a github page that serves a static page built with cljs.
+I might build a small site for nicely presenting of 4clj solutions.
+
+#### On [ansible-role-spec][59]
+
+The idea of the project is, to have immediate feedback whether changes on config or roles within our ansible-stuff makes sense. 
+In ansible there is a [rather old proposal](https://github.com/ansible/proposals/issues/39), that recently got resurrected and which is aiming to implement specs for for role args. 
+[There is a first PR](https://github.com/ansible/ansible/pull/44983) and it seems to be released soon (2.8/2.9-ish).
+
+Task                                    | completed
+----------------------------------------| -------------------- 
+[4clj-103][54]                          | yes
+[4clj-104][55]                          | yes
+[4clj-105][56]                          | yes
+[4clj-106][57]                          | yes
+[4clj-107][58]                          | yes
+[ansible-role-spec][59]                 | wip
 
 [1]:https://github.com/kazesberger/exercism-clj/tree/master/minesweeper
 [2]:https://github.com/kazesberger/exercism-clj/tree/master/series
@@ -521,3 +543,9 @@ Task                                    | completed
 [51]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj100.clj
 [52]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj101.clj
 [53]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj102.clj
+[54]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj103.clj
+[55]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj104.clj
+[56]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj105.clj
+[57]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj106.clj
+[58]:https://github.com/kazesberger/clj-katas/blob/master/src/foreclojure/4clj107.clj
+[59]:https://github.com/kazesberger/ansible-role-spec
